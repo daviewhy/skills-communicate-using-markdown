@@ -21,3 +21,9 @@ var myVar2 = "Cat Dog";
 ```
 
 ###### TEST 6
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [x] Catdogged
+- [x] Introduce myself to the world
+
+
